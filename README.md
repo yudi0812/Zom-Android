@@ -36,7 +36,7 @@ The project fully supports Gradle and Android Studio
 The source code is all in the main git repos, with sub-projects setup as git
 submodules:
 
-    git clone https://github.com/zom/Zom-Android
+    git clone https://github.com/yudi0812/Zom-Android
     cd Zom-Android
     git submodule update --init
 
